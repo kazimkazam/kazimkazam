@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="250" />
 </div>  
   
 
-### <div align="center">Full Stack Developer / React - JS - NodeJS</div>  
+### <div align="center">Full Stack Developer / JS - React - NodeJS</div>  
   
 
 - 🌱 I’m currently learning Angular  
