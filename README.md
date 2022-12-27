@@ -7,7 +7,7 @@
   
 <br/> 
   
-- 💻 All of my projects are available at https://github.com/kazimkazam - just enter the repositories and check them out! All projects are deployed  
+- 💻 All of my projects are available at https://github.com/kazimkazam - just enter the repositories page and check them out! All projects are deployed. 
   
 
 - 📫 How to reach me ---> [monsieurkazimkazam@gmail.com](mailto:monsieurkazimkazam@gmail.com)  
