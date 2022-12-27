@@ -37,7 +37,9 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 <a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">React Testing Library</a>
+
+
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/kazimkazam/kazimkazam/3ab3a4d325d6fb7f4d69e8b3de386e4858aaa0ed/icons/react-testing-library.svg" alt="React Testing Library" height="50" /></a>
 <a href="https://mswjs.io" target="_blank">Mock Service Worker</a>
 
 </div>  
